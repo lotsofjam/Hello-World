@@ -2,4 +2,8 @@ Add a new file to be commited with git add
 
 push all changes with git commit -a
 
-push single changes with git commit -m
+push single changes with git commit -m <file name>
+
+You can create a comment after with 'comment' on the end of these commands
+
+
